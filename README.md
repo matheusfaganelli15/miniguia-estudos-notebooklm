@@ -122,21 +122,41 @@ Analise riscos a que seu patrimônio está exposto e avalie a contratação de s
 
 Escolha o plano previdenciário adequado ao seu modelo de Imposto de Renda: PGBL para modelo completo ou VGBL para simplificado
 
-### Glossário Essencial de Termos Financeiros
-Apólice: O contrato formalizado entre o segurado e a seguradora que estabelece as coberturas e condições do seguro
+## Glossário
+### Apólice: 
+O contrato formalizado entre o segurado e a seguradora que estabelece as coberturas e condições do seguro
 
-Custo Efetivo Total (CET): Percentual que representa o custo real de um crédito, englobando juros, tarifas, impostos (IOF) e encargos
+### Custo Efetivo Total (CET): 
+Percentual que representa o custo real de um crédito, englobando juros, tarifas, impostos (IOF) e encargos
 
-Franquia: A quantia limite descrita na apólice de seguro referente à participação do segurado nos prejuízos em caso de sinistro com perda parcial
+### Franquia: 
+A quantia limite descrita na apólice de seguro referente à participação do segurado nos prejuízos em caso de sinistro com perda parcial
 
-Juros Compostos: A rentabilidade ou taxa de crédito calculada sobre o capital inicial acrescido dos juros acumulados nos períodos anteriores ("juros sobre juros")
+### Juros Compostos: 
+A rentabilidade ou taxa de crédito calculada sobre o capital inicial acrescido dos juros acumulados nos períodos anteriores ("juros sobre juros")
 
-Liquidez: A facilidade e rapidez com que um ativo financeiro pode ser resgatado ou convertido em dinheiro sem perda significativa de valor
+### Liquidez: 
+A facilidade e rapidez com que um ativo financeiro pode ser resgatado ou convertido em dinheiro sem perda significativa de valor
 
-PGBL (Plano Gerador de Benefício Livre): Plano de previdência complementar que permite deduzir as contribuições na declaração completa do IR até o limite de 12% da renda bruta anual
+### PGBL (Plano Gerador de Benefício Livre): 
+Plano de previdência complementar que permite deduzir as contribuições na declaração completa do IR até o limite de 12% da renda bruta anual
 
-Prêmio: O valor financeiro pago pelo segurado à seguradora para obter a proteção do seguro
+### Prêmio: 
+O valor financeiro pago pelo segurado à seguradora para obter a proteção do seguro
 
-Sinistro: A ocorrência de um evento incerto e coberto pela apólice de seguro que gera o direito à indenização
+### Sinistro: 
+A ocorrência de um evento incerto e coberto pela apólice de seguro que gera o direito à indenização
 
-VGBL (Vida Gerador de Benefício Livre): Plano de seguro/previdência complementar onde o Imposto de Renda no resgate incide exclusivamente sobre os rendimentos gerados
+### VGBL (Vida Gerador de Benefício Livre): 
+Plano de seguro/previdência complementar onde o Imposto de Renda no resgate incide exclusivamente sobre os rendimentos gerados
+## Prompts reutilizaveis:
+### Prompt1:
+Percorra todas as fontes e faça uma lista de "Alertas e Cuidados": quais são os maiores riscos financeiros, armadilhas de crédito e erros de planejamento sinalizados pelos autores que devemos evitar a todo custo?
+### Prompt2:
+Com base em todos os documentos carregados, faça um resumo executivo cobrindo os conceitos-chave de orçamento, planejamento financeiro e investimentos. Destaque os 3 principais aprendizados práticos que uma pessoa deve aplicar imediatamente.
+### Prompt3:
+Apresente uma lista com os principais termos técnicos encontrados nas fontes (como inflação, juros compostos, reserva de emergência e taxa Selic). Para cada termo, forneça uma explicação simples e prática, como se estivesse ensinando um leigo.
+### Prompt4:
+Prompt: Com base nos materiais sobre psicologia do consumidor e finanças pessoais, quais são os principais gatilhos mentais que levam às compras por impulso? Liste as estratégias recomendadas nos documentos para neutralizar esses gatilhos no momento da compra.
+### Prompt5:
+Mapeie nos textos todas as explicações sobre a inflação. Monte um esquema que mostre: o que gera a inflação, como ela afeta a taxa de juros (Selic) e qual o impacto final no carrinho de compras de uma família.
